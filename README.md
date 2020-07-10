@@ -6,6 +6,8 @@ nwHive tracks your TWc's and creates a badge for any new TWc.
 At the moment it is under development, there might been breaking changes.
 There will be a zip/tar file available with nw.js and all TWc's included soon.
 
+#### THIS CODE IS UNDER DEVELOPMENT
+
 The live page can be found here: https://nwokido.github.io/nwHive/
 
 Have a nice day, Okido
