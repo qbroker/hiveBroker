@@ -9,6 +9,4 @@ hiveBroker uses the nwSaver-Plugin.js.
 
 #### THIS CODE IS UNDER DEVELOPMENT
 
-The live example page can be found here: https://qbroker.github.io/hiveBroker/
-
 Have a nice day, Okido
