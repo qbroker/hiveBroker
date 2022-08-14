@@ -1,13 +1,14 @@
-# nwHive
-nwHive your starting point for all TWc's.
+# hiveBroker
+hiveBroker can be your starting point for all your TiddlyWikiClassic.
 
-This TWc gives you a dashboard to manage, delete, copy and start your TWc from one spot.
-nwHive tracks your TWc's and creates a badge for any new TWc.
-At the moment it is under development, there might been breaking changes.
-There will be a zip/tar file available with nw.js and all TWc's included spring/summer 2022.
+This TWC gives you a dashboard to manage, delete, copy and start your TWC from one spot and it is build with TWC.
+hiveBroker tracks your TWC's and automatically creates a badge for any new TWC so it can be used.
+At the moment hiveBroker is under development and there will be breaking changes.
+Installation will be possible by a installer script that downloads NW.js and install the TWC's in the correct folders.
+hiveBroker uses the nwSaver-Plugin.js.
 
 #### THIS CODE IS UNDER DEVELOPMENT
 
-The live page can be found here: https://qbroker.github.io/nwHive/
+The live example page can be found here: https://github.com/qbroker/hiveBroker/tree/gh-pages
 
-Have a nice day, qBroker
+Have a nice day, Okido
