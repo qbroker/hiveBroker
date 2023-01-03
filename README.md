@@ -1,10 +1,10 @@
 # hiveBroker
-hiveBroker can be your starting point for all your TiddlyWikiClassic.
+hiveBroker can be your starting point for all your classic TiddlyWiki's.
 
-This TWC gives you a dashboard to manage, delete, copy and start your TWC from one spot and it is build with TWC.
-hiveBroker tracks your TWC's and automatically creates a badge for any new TWC so it can be used.
+This TiddlyWiki classic gives you a dashboard to manage, delete, copy and start your TiddlyWiki classic from one spot and it is build with TiddlyWiki classic.
+hiveBroker tracks your TiddlyWiki classic and automatically creates a badge for any new TiddlyWiki classic so it can be used.
 At the moment hiveBroker is under development and there will be breaking changes.
-Installation will be possible by a installer script that downloads NW.js and install the TWC's in the correct folders.
+Installation will be possible by a installer script that downloads NW.js and installs the TiddlyWiki classic in the correct folder.
 hiveBroker uses the nwSaver-Plugin.js.
 
 #### THIS CODE IS UNDER DEVELOPMENT
