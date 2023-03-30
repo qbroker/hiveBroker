@@ -1,5 +1,5 @@
 # hiveBroker-Plugin.js
-This file is just to show how the hiveBroker looks and feels.
+This file is just to show how the hiveBroker looks.
 
 
 ### TiddlyWiki classic license
