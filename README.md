@@ -7,7 +7,7 @@ hiveBroker is still under development but I do noy expect breaking changes.
 To install download the zip file of your choice, uppack and start by clicking on the nw or nw.exe.
 hiveBroker uses the nwSaver-Plugin.js.
 
-The dashboard looks like this:
+The dashboard looks like this or try it here [hiveBroker-Plugin.js](https://github.com/qbroker/hiveBroker/tree/gh-pages).
 
 ![hiveBroker dashboard](Pictures/hiveBroker-Dashboard.png)
 
