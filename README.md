@@ -1,14 +1,14 @@
 # hiveBroker the story
-`hiveBroker` can be your starting point for all your classic TiddlyWiki's.
-TiddlyWiki classic is traditionally used in a browser like Firefox or Chrome or in [TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop).
-[TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) provides a more application like look and feel, it runs on NW.js an is suited for TiddlyWiki classic and TiddlyWiki 5.
-Over the years saving a TiddlyWiki in a browser became more and more difficult and I started looking for something else.
-My starting point was that I only wanted to use classic TiddlyWiki's, on NW.js or Electron , with a very open architecture.
-First I wrote a very basic saver to use TiddlyWiki classic with NW.js. From a running TiddlyWiki classic on NW.js you can open another TiddlyWiki classic in a new window. The same as one would use tabs in a browser.
-Because I use several classic TiddlyWiki's I needed something to organize, categorize and find them with ease.
-The hiveBroker-Plugin.js makes this possible, this plugin can generate a tiddler with file information in it for all files in selected folders on your drive.
-The generated tiddlers have buttons to do basic things like delete, rename, copy and start your classic TiddlyWiki's.
-From these tiddlers a dashboard is generated that shows you bagdes for all classic TiddlyWiki's that you selected, sorted by number of clicks.
+`hiveBroker` can be your starting point for all your classic TiddlyWiki's.\
+TiddlyWiki classic is traditionally used in a browser like Firefox or Chrome or in [TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop).\
+[TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) provides a more application like look and feel, it runs on NW.js an is suited for TiddlyWiki classic and TiddlyWiki 5.\
+Over the years saving a TiddlyWiki in a browser became more and more difficult and I started looking for something else.\
+My starting point was that I only wanted to use classic TiddlyWiki's, on NW.js or Electron , with a very open architecture.\
+First I wrote a very basic saver to use TiddlyWiki classic with NW.js. From a running TiddlyWiki classic on NW.js you can open another TiddlyWiki classic in a new window. The same as one would use tabs in a browser.\
+Because I use several classic TiddlyWiki's I needed something to organize, categorize and find them with ease.\
+The hiveBroker-Plugin.js makes this possible, this plugin can generate a tiddler with file information in it for all files in selected folders on your drive.\
+The generated tiddlers have buttons to do basic things like delete, rename, copy and start your classic TiddlyWiki's.\
+From these tiddlers a dashboard is generated that shows you bagdes for all classic TiddlyWiki's that you selected, sorted by number of clicks.\
 
 > `hiveBroker` is still under development but breaking changes are not expected.
 
